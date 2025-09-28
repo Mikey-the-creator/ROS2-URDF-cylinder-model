@@ -1,0 +1,17 @@
+# ROS2 build outputs
+build/
+install/
+log/
+
+# Python/Editor junk
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Keys & certs (never commit these)
+*.pem
+*.key
+id_*
+bass
+bass.pub
