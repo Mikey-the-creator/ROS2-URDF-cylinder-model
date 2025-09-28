@@ -1,0 +1,12 @@
+# ROS2/colcon
+build/
+install/
+log/
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
